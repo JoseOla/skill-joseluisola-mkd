@@ -1,0 +1,11 @@
+{
+  "version": "3.4",
+  "date": "2026-10-18",
+  "previous": "v3.3",
+  "update": "Preferencia /aprende on current host; playlist-first no per-video landing; optional selective GHL blog SEO",
+  "new_files": [
+    "32_DECISION_SIMPLE_YOUTUBE_BLOG_POST_URL_APRENDE.md",
+    "33_PROMPT_PORTAL_MINIMO_APRENDE_GODADDY_GHL.md"
+  ],
+  "skill_modules": 18
+}
